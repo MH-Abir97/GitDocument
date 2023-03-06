@@ -69,8 +69,11 @@ Three Type of Area in Git
    > $ git commit add . && git commit -m "my first commit" or $ git commit -am "My First Commit"
    
    ### Uncommit
+ 
    Recent Commit Undo
+ 
    > $ git reset --soft HEAD^
+ 
    Recent Commit undo or uncommit and Remove from Stagging Area 
    > $ git reset HEAD^
     
