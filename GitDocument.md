@@ -87,11 +87,13 @@ Three Type of Area in Git
    Specific  One Commit  Show
    > $ git log -oneline
  
- ## Back to The Previous Commit
+  Back to The Previous Commit step to Step
  
  > $ git checkout <HEAD ID >
  
+  Back to The Previous 
  
+ > $ git checkout master
    
   
   
