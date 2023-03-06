@@ -80,8 +80,18 @@ Three Type of Area in Git
    Go back to the last comment and uncommit & untraccking  in the staging area
    >$ git reset --hard HEAD^
    
-
-   
+   Git History 
+ 
+   > $ git log 
+ 
+   Specific  One Commit  Show
+   > $ git log -oneline
+ 
+ ## Back to The Previous Commit
+ 
+ > $ git checkout <HEAD ID >
+ 
+ 
    
   
   
