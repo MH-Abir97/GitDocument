@@ -162,12 +162,12 @@ Three Type of Area in Git
  $ git branch
  ```
  
- Create git Branch
- 
+ Create git Branch  
+ Branch Create  
  ```
   git branch <Branch_Name>
  ```
-  Switched to a new branch 'features1'
+ Branch Create and  Switched to a new branch a
   
   ```
   $ git checkout -b "features1"
