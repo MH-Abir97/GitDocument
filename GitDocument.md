@@ -144,7 +144,44 @@ Three Type of Area in Git
  ```
  $ git rm -rf <Project_Folder Name>
  ```
+ GIT Pull AND Push
+ 
+ ```
+ $ git pull 
+ ```
+ 
+ Push Command
+ 
+ ```
+  git push -u origin master
+ ```
+ 
+ Git Branch 
+ 
+ ```
+ $ git branch
+ ```
+ 
+ Create git Branch
+ 
+ ```
+  git branch <Branch_Name>
+ ```
+  Switched to a new branch 'features1'
   
+  ```
+  $ git checkout -b "features1"
+  ```
+  
+  Branch Delete
+  ```
+  $ git branch -d <Branch_Name>
+  ```
+  
+  
+  
+
+ 
   
   
  
