@@ -131,7 +131,7 @@ Three Type of Area in Git
  $ git remote add origin <Remote Git Link>
  ```
  
- Origin define Gir Url link
+ Origin define Git Url link
  
  Git Clone 
  
