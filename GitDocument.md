@@ -139,7 +139,11 @@ Three Type of Area in Git
  $ git clone <Git Remote Link>
  ```
    
+ Git Folder Remove
  
+ ```
+ $ git rm -rf <Project_Folder Name>
+ ```
   
   
   
