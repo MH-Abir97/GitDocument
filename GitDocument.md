@@ -116,6 +116,28 @@ Three Type of Area in Git
  ```
  $ git checkout master
  ```
+ 
+ Local Repository Connected to Remote Repository
+ 
+ Remote Repository Check
+ ```
+ $ git remote
+ 
+ ```
+ 
+ Connect Remote to Local
+ 
+ ```
+ $ git remote add origin <Remote Git Link>
+ ```
+ 
+ Origin define Gir Url link
+ 
+ Git Clone 
+ 
+ ```
+ $ git clone <Git Remote Link>
+ ```
    
  
   
