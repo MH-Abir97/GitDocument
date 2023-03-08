@@ -185,6 +185,40 @@ Three Type of Area in Git
   $ git branch -d <Branch_Name>
   ```
   
+  # Local Repository Create Branch and Merging
+  
+  ```
+  $ git checkout -b <Branch_Name>
+  ```
+  
+  Git Add
+   ```
+   $ git add .
+   ```
+   
+   Git Commit
+   
+   ```
+   $git commit -m "Commit msg"
+   ```  
+   Git merge
+   
+   ```
+    $ git merge <Branch_Name>
+   ```
+   
+   Git Pull
+   
+   ```
+   $ git pull
+   ``` 
+   
+   Git Push
+   
+   ```
+   $ git push -u origin <Branch_Name>
+   ```
+  
   
   
 
